@@ -19,3 +19,4 @@ Current list of distributions:
 - [OpenTelemetry Collector for Kubernetes (also known as "otelcol-k8s")](./distributions/otelcol-k8s)
 - [OpenTelemetry Collector OTLP (also known as "otelcol-otlp")](./distributions/otelcol-otlp)
 .
+- sds
